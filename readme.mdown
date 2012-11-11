@@ -1,5 +1,3 @@
-# Vimeo Player API Examples
+javascripts/vzaar_api.js allows you to connect to vzaar's flash video player js api.
 
-These are some examples and helpful things for using the Vimeo Player in your projects.
-
-Included are both Flash and JavaScript examples.
+vzaar_api.js requires vimeo's froogaloop library which is used for postMessage communication.
